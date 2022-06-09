@@ -1,10 +1,5 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# página de login do Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+recriando a [página de login do Instagram](https://plhrsl.github.io/instagram-dio/) para o desafio de projeto da DIO. 
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+foi utilizado CSS com Flexbox.
